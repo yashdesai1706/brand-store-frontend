@@ -1,0 +1,12 @@
+@media screen and (max-width: 328px) {
+  #Offer {
+    margin: 20px;
+  }
+  #landing{
+    width: 100%;
+    background-attachment: unset;
+  }
+  .container{
+    width: 100%;
+  }
+}
