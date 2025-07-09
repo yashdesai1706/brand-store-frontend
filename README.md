@@ -24,7 +24,7 @@ This clean e-commerce layout showcases your ability to design professional UIs a
  🛠️ Tech Stack
 
 - HTML5
-- **CSS3
+- CSS3
 - Bootstrap 5
 - Font Awesome 6
 - Google Fonts
@@ -44,18 +44,18 @@ This clean e-commerce layout showcases your ability to design professional UIs a
 
  Yash Desai  
 📧 desaiyash286@gmail.com  
-🌐 [LinkedIn Profile (optional)](https://www.linkedin.com/in/yashdesai1706)  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/yashdesai1706)  
 🐙 [GitHub Profile](https://github.com/yashdesai1706)
 
 
-## 🙌 Special Thanks
+ 🙌 Special Thanks
 
 - [Bootstrap](https://getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 
 
-## 🧾 License
+ 🧾 License
 
 This project is open source and free to use. Attribution appreciated!
 
